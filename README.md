@@ -16,7 +16,7 @@ Este projeto implementa uma API RESTful para gerenciamento de tarefas utilizando
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/task-api.git
+   git clone (https://github.com/victorrahal/MosaicQ/blob/main/Node.Js)
    cd task-api
 
 npm install
